@@ -1,0 +1,30 @@
+Q1:What is the capital of Switzerland?
+MC: (a) Bern    (b) Geneva    (c) Zurich    (d) Basel
+Ans:a
+Q2:In which city was the Titanic built?
+MC:(a) Bristol    (b) York    (c) Belfast    (d) Norwich
+Ans:c
+Q3:Which NBA team has won the most championships?
+MC:(a)  Warriors    (b) Celtics    (c) Lakers    (d) Bulls
+Ans:b
+Q4:How many matches did Mohammed Ali lose in his boxing career?
+MC:(a) One    (b) Three    (c) None    (d) Two
+Ans:a
+Q5:Who is often called the father of the computer?
+MC:(a) George Boole    (b) Charles Babbage    (c) James Gosling    (d) Bill Gates
+Ans:b
+Q6:Which cheese is traditionally used for pizzas?
+MC:(a) Provolone    (b) Mozzarella    (c) Swiss Cheese    (d) Parmesan
+Ans:b
+Q7:What is the national animal of USA?
+MC:(a) Bald Eagle    (b) American Bison    (c) Cougar    (d) Coyote
+Ans:b
+Q8:The type of meat most consumed worldwide is what?
+MC:(a) Red Meat    (b) Poultry    (c) Pork    (d) Seafood
+Ans:c
+Q9:Tegucigalpa is the capital city of which Central America country?
+MC:(a) Guatemala    (b) El Salvador    (c) Nicaragua    (d) Honduras
+Ans:d
+Q10:What is the biggest selling music album of all time?
+MC:(a) Hotel California    (b) Thriller    (c) Their Greatest Hits    (d) The Wall
+Ans:b
